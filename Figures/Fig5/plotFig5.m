@@ -2,8 +2,7 @@
 
 load('dataFig5.mat');
 
-FiringrateandStability;
-linearnoiseapprox;
+Avadistribution_variousbins;
 
 
 
